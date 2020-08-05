@@ -1,10 +1,10 @@
 # Makhmud Islamov Sunnatovich
-Makhmud.Islamov@students.makeschool.com
-415-400-9274
-San Francisco, CA
-[Portfolio](MakeSchool.com/portfolio/makhmudislamov)
-[LinkedIn](LinkedIn.com/in/m-sunnatovich)
-[GitHub](GitHub.com/makhmudislamov)
+<br>Makhmud.Islamov@students.makeschool.com
+<br>415-400-9274
+<br>San Francisco, CA
+<br>[Portfolio](MakeSchool.com/portfolio/makhmudislamov)
+<br>[LinkedIn](LinkedIn.com/in/m-sunnatovich)
+<br>[GitHub](GitHub.com/makhmudislamov)
 
 ## EXPERIENCE 
 #### JPMorgan Chase & Co.  - SWE Virtual Experience via InsideSherpa.
@@ -66,7 +66,7 @@ Organized bi-weekly marketing campaigns for upcoming meetings and speaker events
 ____________________________________________________________________________________
 ## EDUCATION
 Make School, San Francisco, CA
-B.S. Applied Computer Science (expected Oct 2020)
+<br>B.S. Applied Computer Science (expected Oct 2020)
 
 City College of San Francisco, San Francisco, CA
-General Business program (June 2018)
+<br>General Business program (June 2018)
