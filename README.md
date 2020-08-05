@@ -65,7 +65,7 @@ Jan 2015 - Jun 2016
 Organized bi-weekly marketing campaigns for upcoming meetings and speaker events, kept member retention rate of 25-30 members/meeting by utilizing social media and creative posters
 ____________________________________________________________________________________
 ## EDUCATION
-Make School, San Francisco, CA 				 
+Make School, San Francisco, CA
 B.S. Applied Computer Science (expected Oct 2020)
 
 City College of San Francisco, San Francisco, CA
